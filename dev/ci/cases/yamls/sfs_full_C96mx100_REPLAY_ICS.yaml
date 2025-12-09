@@ -2,6 +2,6 @@ defaults:
   !INC {{ HOMEgfs }}/dev/parm/config/sfs/yaml/defaults.yaml
 base:
   FHMAX_GFS: 744
-  FCST_BREAKPOINTS: "240, 480"
+  FCST_BREAKPOINTS: "384"
 ocn:
   MOM6_INTERP_ICS: "YES"
