@@ -1,12 +1,11 @@
 # Paths
 DMPDIR: '/scratch3/NCEPDEV/global/role.glopara/dump'
-IODADIR: '/scratch3/NCEPDEV/global/role.glopara/dump_ioda'
 BASE_GIT: '/scratch3/NCEPDEV/global/role.glopara/git'
 BASE_DATA: '/scratch3/NCEPDEV/global/role.glopara/data'
 BASE_IC: '/scratch3/NCEPDEV/global/role.glopara/data/ICSDIR'
 AERO_INPUTS_DIR: '/scratch3/NCEPDEV/global/role.glopara/data/GEFS_ExtData/20250310'
 PACKAGEROOT: '/scratch3/NCEPDEV/global/role.glopara/nwpara'
-HOMEDIR: '/scratch3/NCEPDEV/global/${USER}'
+HOMEDIR: '/scratch3/NCEPDEV/climate/rg'
 STMP: '/scratch4/NCEPDEV/stmp/${USER}'
 PTMP: '/scratch4/NCEPDEV/stmp/${USER}'
 NOSCRUB: '${HOMEDIR}'
